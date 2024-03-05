@@ -1,0 +1,1 @@
+[Console]::OutputEncoding = [System.Text.Encoding]::GetEncoding("windows-1251")
